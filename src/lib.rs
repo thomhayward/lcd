@@ -1,3 +1,4 @@
+#![no_std]
 /// WIP!
 /// - Currently only supports 4-bit mode.
 /// - Some commands are not implemented.
